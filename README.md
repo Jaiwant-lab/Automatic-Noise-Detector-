@@ -7,3 +7,6 @@ We will be mapping one analog signal to sound sensor and digital signal to a LED
 * post our finshed script on github. 
 ### Project Detail
 >we will be mapping one _analog_ input signal to the sound sensor and a _digital_ signal to a LED indicate the sound.  
+
+### Conclusion
+>overall this project is really fun and easier, try it your self.
