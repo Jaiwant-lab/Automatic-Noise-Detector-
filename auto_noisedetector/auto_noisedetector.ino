@@ -5,7 +5,7 @@ void setup() {
   pinMode(LED_PIN, OUTPUT);
   Serial.begin(9600);
 }
-
+/* the loop function*/ 
 void loop() {
   int value = analogRead(SOUND_PIN);
   Serial.println(value);
