@@ -1,4 +1,4 @@
-# Automatic-Noise-Detector-
+## Automatic-Noise-Detector-
 We will be mapping one analog signal to sound sensor and digital signal to a LED indicate sound.
 # Git/Github Project
 #### Team Member: Jerry, Jaiwant
